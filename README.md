@@ -9,6 +9,7 @@
 
 测活前，请在测活列表中输入或粘贴你需要测活的卡片信息
 皮皮测活分界符仅为 |  示例：（4366184847******|0*|26|4**）（4737030053******|06|2*|6**|Jorge Vi***lva|200 s van dorn st ****3|Alexandria|VA|22304|UNITED STATES|jor****122@yahoo.com|UNITED STATES）
+
 随后点击开始，如果信息输入正确的话，会弹出一个任务数量的窗口，点击yes，皮皮测活开始工作
 
 ![image](https://github.com/pipichecker/pipi/assets/162939358/79b5d6f1-9825-4e4a-94a0-aef5fa7bfa87)
