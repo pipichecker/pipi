@@ -24,7 +24,9 @@
 ![image](https://github.com/pipichecker/pipi/assets/162939358/95a98f49-6ede-4786-958f-0ad6ae22de88)
 
 活卡：该次任务结果为活的卡
+
 死卡：该次任务结果为死的卡
+
 任务执行失败：大部分为该次任务中过期的卡或信息错误的卡
 
 
