@@ -41,3 +41,6 @@
 待检查文件为当前执行任务还未检查的卡
 
 每张卡最后都会有检查的时间
+
+![image](https://github.com/pipichecker/pipi/assets/162939358/15a6b184-a9bd-4070-953c-84518aa6ced8)
+
